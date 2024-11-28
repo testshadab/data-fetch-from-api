@@ -7,7 +7,7 @@ import java.sql.*;
 public class WorkbenchDbConnectionTest {
     private static final String JDBC_URL = "jdbc:mysql://uat-azure-db.mariadb.database.azure.com:3306/case_management";
     private static final String USERNAME = "***************";
-    private static final String PASSWORD = "***************";
+    private static final String PASSWORD = "*****************";
 
     @Test
     public void validateDatabaseFetch() {
