@@ -6,8 +6,8 @@ public class WorkbenchDbConnection {
     private static final String JDBC_URL = "jdbc:mysql://uat-azure-db.mariadb.database.azure.com:3306/?protocol=tcp";
 
     //  private static final String JDBC_URL = "jdbc:mysql://localhost:3306/uat-azure-db.mariadb.database.azure.com";
-    private static final String USERNAME = "uatmariadb@uat-azure-db";
-    private static final String PASSWORD = "A24exCpYL2eq6U2";
+    private static final String USERNAME = "***************";
+    private static final String PASSWORD = "***************";
 
     public static void main(String[] abc) throws SQLException {
 
