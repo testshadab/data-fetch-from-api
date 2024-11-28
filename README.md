@@ -15,9 +15,11 @@ This project automates database validation and endpoint testing using **TestNG**
 
 3. **Added required Dependencies like testNG, RestAssured, SQL and Json** 
 
-4. **Run the tests using Maven**: mvn test
+## RUN TEST
+**Run the tests using Maven**: mvn test
 
-5. **Generate the Allure report**: allure serve allure-results 
+## Allure Report
+**Generate the Allure report**: allure serve allure-results 
 ![img.png](img.png)
 
 ## Dependencies
